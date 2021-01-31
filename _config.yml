@@ -1,0 +1,71 @@
+url: "https://Prueba2.github.io" 
+baseurl: "/"
+
+# Site settings
+title: De-Stress ChatBot
+email: malttz15@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+#stack-overflow
+people:
+- name: Mario Rosas Otero
+  pic: Mario.jpeg
+  position: Coder
+  social:
+    - title: twitter
+      url: https://twitter.com/Mariuki1
+    - title: facebook
+      url: https://www.facebook.com/djmaletas
+    - title: linkedin
+      url: https://www.linkedin.com/in/mario-rosas-443726187/
+
+- name: Natalia Sanchez
+  pic: Natalia.jpeg
+  position: Coder
+  social:
+    - title: twitter
+      url: https://twitter.com/Natalia56102779
+    - title: facebook
+      url: https://www.facebook.com/natalia.sanchezpatino.3
+    - title: linkedin
+      url: https://www.linkedin.com/in/natalia-s-ba061810a/
+
+- name: Maricarmen Salas
+  pic: Maricarmen.jpeg
+  position: Designer/Writer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/mary.salas.3511
+    - title: linkedin
+      url: https://www.linkedin.com/in/maricarmen-salas-1922571a2/
+
+- name: Andrea Garibay
+  pic: Andrea.png
+  position: Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrea-garibay-965893128/detail/photo/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#   - title: twitter
+#     url: https://twitter.com/ClubesCienciaMx
+#   - title: facebook
+#     url: https://www.facebook.com/clubesdecienciamx
+#   - title: youtube
+#     url: https://www.youtube.com/user/ClubesDeCienciaMx
+  - title: github
+    url: https://github.com/ChatBotChallengeCdCMX/ChatBotForCovidDe-stress
+
+# Build settings
+markdown: kramdown
+permalink: pretty
