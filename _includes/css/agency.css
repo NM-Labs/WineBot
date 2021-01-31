@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/vino2.gif');
+    background-image: url('{{ site.baseurl }}/img/vino3.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
