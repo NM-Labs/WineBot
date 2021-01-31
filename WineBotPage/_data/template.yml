@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: BDB76B
+  secondary: 808000   
+  secondary-dark: 333
+  muted: 777
+
+# Font Families
+font:
+  primary: '"Roboto Condensed", "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Orbitron", "Helvetica Neue", Helvetica,Arial,sans-serif'
