@@ -32,16 +32,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/natalia-s-ba061810a/
 
- - name: Ruben Martínez
-   pic: Rubs.jpg
-   position: Experto Vinícola
-   social:
-     - title: twitter
-       url: https://twitter.com/RubenMte1
-     - title: facebook
-       url: https://www.facebook.com/ruben.mte
-     - title: instagram
-       url: https://www.instagram.com/rubmte/?hl=en
+#  - name: Ruben Martínez
+#    pic: Rubs.jpg
+#    position: Experto Vinícola
+#    social:
+#      - title: twitter
+#        url: https://twitter.com/RubenMte1
+#      - title: facebook
+#        url: https://www.facebook.com/ruben.mte
+#      - title: instagram
+#        url: https://www.instagram.com/rubmte/?hl=en
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
