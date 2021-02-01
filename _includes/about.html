@@ -8,7 +8,8 @@
                 <h2 class="text-primary">Diseño</h2>
                  <div class="row text-justify">
                      <p class="text-muted">Todo el código esta contenido dentro de un script de Python, sin embago dentro del mismo se establece conexión con el interprete SWI-PROLOG,
-                    para poder realizar consultas a nuestra base de conocimiento que esta en un arhchivo con extensión ".pl". En la base de conocimiento se aloja predicados con los cuales
+                    para poder realizar consultas a nuestra base de conocimiento que esta en un arhchivo con extensión ".pl", y que nos permitio utilizar las ventajas de crear relaciones 
+                    lógicas con nuestra información. En la base de conocimiento se aloja predicados con los cuales
                     se establecen relaciones de los tipos de uva existentes, dentro de cada clase de vino considerada en la construcción del sistema; añadido a ello se estblece la realción 
                     de una descripción sobre las caracteristicas generales de cada tipo de uva que se despliegan al momento de que es seleccionado dicho tipo de uva como recomendación; 
                     ademas se cuenta con un predicado que relaciona una variedad de tipos de comida, y los maridajes que cada tipo de vino;los mismo pasa para los aromas que de desprenden 
@@ -19,7 +20,7 @@
                     el converger a una respuesta, y poder brindar en todo momento una buena reomendación.  </p>
 
                     <p class="text-muted">Por su parte el script de Python contiene las librerias necesarias que nos ayudan a realizar 
-                    la coenxión con el interprete de PROLOG, para realizar las consultas necesarias, ademas de librerias para poder hacer el reconocimiento de vez, procesar imágenes, construir la interfaz 
+                    la conexión con el interprete de PROLOG, para realizar las consultas necesarias, ademas de librerias para poder hacer el reconocimiento de vez, procesar imágenes, construir la interfaz 
                     de usuario, mandar a links de compra, y procesamiento y formato de información. Además se construyeron funciones para poder procesar la información en que la entregan las consultas a 
                     prolog y poder en su caso, procesarla, o mostrarla al usuario en la interfaz creada; se construyeron funciones para poder dar también formato a la infomación recibida del usaurio de forma, 
                     tanto oral como escrita y que debe ser ocupada para realizar consultas en PROLOG. Se escribieron también cunfiones para realizar la interfaz de usuario, con el manejo de mas de una ventana, 
@@ -33,18 +34,18 @@
          <!--     <div class="col-12 col-sm-6 col-md-5"> -->
               <div class="row text-justify">
                 <!--<img alt="image" class="fdb-icon" src="./imgs/icons/layers.svg"> -->
-                <h3><strong>Bases de datos</strong></h3>
-                <p class="text-justify">Para que nuestro chatbot pueda dar una amplia gama de información, se utilizaron bases de datos disponibles para el uso del publico
-                    en geneneral, las bases de datos en su forma original contenian algunas inconsistencias en ciertos datos, por lo cual fueron depuradas, ademas en el 
-                    intento de ofrecer intormación apartir de cierto estandar y gracias a que las bases de datos contenian categorias de calificación de contenido provista 
-                    por los usuarios, se establecieron umbrales de calidad, para fortalecer que el contenido sea de respuesta positiva por muchos usuarios.</p>
-                  <ul>
-                   <li><a href="https://www.kaggle.com/datasnaek/youtube-new" title="YT">Trending YouTube Video Statistics</a></li>
-                   <li><a href="https://www.kaggle.com/jealousleopard/goodreadsbooks" title="book">Goodreads-books</a></li>
-                   <li><a href="https://research.google.com/youtube8m/" title="voca">Vocabulary DataSet</a></li>
-                   <li><a href="https://github.com/Vatshayan/Song-Classification/blob/master/music.csv" title="music">Song-Classification</a></li>
-                   <li><a href="https://github.com/marcboquet/spanish-names" title="names">Spanish-Names</a></li>  
-                  </ul>
+                <h3><strong>Ejecutable</strong></h3>
+                <p class="text-justify">De acuerdo a las experiencias y resultados obtenido en diversos proyectos previos, nos parece que uno de los aspectos fundamentales, para
+                  que el sistema que se esta desarrollando pueda ser viables, y con apertura de acceso a mas variedad de usuarios, es impresindible crear el sistema pensando en 
+                  la facilidad tanto de uso cotidiano como de adquisición. Es por ello, que decidimos, de igual fomra con ayuda de una libreria de Python, convertir nuestro código
+                  en un compendio de archivos, que permiten tener un ejecutable, lo cual libera al usuario final de tener que estar haciendo descargas e instalaciones adicionales, o
+                  tener que estar ejecutando el sistema, desde interpetes, o lineas de comandos, de un determinado lenguaje o sistema.</p>
+                  
+                  <p class="text-justify">Para poder ejecutarlo, se debe descargar el conjunto de archivos para que trabaje el ejecutable en 
+                  <a href="https://github.com/NM-Labs/WineBot/WineBot Code" title="Horesh">Descargar - WineBot Ejecutable</a>.</p>, una vez que se ha descargado, la carpeta debe ser descompresa
+                  y se tendra una carpeta llamada AutoWineBot, y dentro de ella se encontraran mas carpetas y archivos, ahí debes localizar el archivo llamado "AutoWineBot.exe", das doble clic 
+                  rápido sobre el mismo, y con ello se debera desplegar la ventana del sistema (la primera vez puede tardar un poco). Con ello tendrás ya a tu disposición toda la funcionalidad
+                  de WineBot: Experto en Vinos!
               </div>
             </div>
                 <div class="row text-justify">
