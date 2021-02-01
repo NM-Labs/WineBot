@@ -265,7 +265,7 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-header {
+/* header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -276,6 +276,47 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+} */
+
+header {
+  position: fixed;
+  font-family: Arial;
+  color: white;
+  width: 98%;
+  margin: 10px;
+  border: 1px solid white;
+  background-color: black;
+  /* Add this */
+  text-align: center;
+  overflow: hidden;
+}
+
+header h1 {
+  border: 1px solid black;
+  background-color: black;
+  padding: 2px;
+  font-size: 5.5em;
+  font-weight: bold;
+  letter-spacing: 11px;
+  text-align: center;
+  /* Add this */
+  display: inline-block;
+}
+
+
+/* Update this */
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  object-position: center;
+  object-fit: cover;
 }
 
 header .intro-text {
