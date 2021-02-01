@@ -32,16 +32,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/natalia-s-ba061810a/
 
-- name: Ruben Martínez
-  pic: Rubs.jpg
-  position: Experto Vinícola
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: https://www.facebook.com/mary.salas.3511
-    - title: linkedin
-      url: https://www.linkedin.com/in/maricarmen-salas-1922571a2/
+# - name: Ruben Martínez
+#   pic: Rubs.jpg
+#   position: Experto Vinícola
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: https://www.facebook.com/mary.salas.3511
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/maricarmen-salas-1922571a2/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
