@@ -265,20 +265,20 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-/* header {
+header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-video: url('{{ site.baseurl }}/img/Wine - video.mp4');
+    background-image: url('{{ site.baseurl }}/img/vino5.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-} */
+}
 
-header {
+/* header {
   position: fixed;
   font-family: Arial;
   color: white;
@@ -318,7 +318,7 @@ video {
   object-position: center;
   object-fit: cover;
 }
-
+ */
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
