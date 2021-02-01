@@ -286,7 +286,6 @@ header {
   margin: 10px;
   border: 1px solid white;
   background-color: black;
-  /* Add this */
   text-align: center;
   overflow: hidden;
 }
@@ -299,12 +298,8 @@ header h1 {
   font-weight: bold;
   letter-spacing: 11px;
   text-align: center;
-  /* Add this */
   display: inline-block;
 }
-
-
-/* Update this */
 
 video {
   position: absolute;
