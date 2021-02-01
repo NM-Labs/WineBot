@@ -1,4 +1,4 @@
-url: "https://Prueba2.github.io" 
+url: "https://WineBot.github.io" 
 baseurl: "/"
 
 # Site settings
@@ -53,7 +53,7 @@ social:
 #   - title: youtube
 #     url: https://www.youtube.com/user/ClubesDeCienciaMx
   - title: github
-    url: https://github.com/ChatBotChallengeCdCMX/ChatBotForCovidDe-stress
+    url: https://github.com/NM-Labs/WineBot/
 
 # Build settings
 markdown: kramdown
