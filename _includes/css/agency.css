@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/Wine - video.mp4');
+    background-video: url('{{ site.baseurl }}/img/Wine - video.mp4');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
