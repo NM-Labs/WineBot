@@ -5,6 +5,8 @@ Nuestra página (Reporte) donde contamos un poco mas sobre el proyecto es: https
 
 El URL del código de este proyecto es: https://github.com/NM-Labs/WineBot/tree/master/WineBot%20Code
 
+Algunas capturas de pantalla del funcionamiento se encuentran en: https://github.com/NM-Labs/WineBot/tree/master/WineBot%20Code/Capturas
+
 Elaborado por: 
 
 * Natalia Patiño,  Github: [@Natalia-SP](https://github.com/Natalia-SP)
