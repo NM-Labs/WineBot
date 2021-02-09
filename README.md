@@ -7,6 +7,9 @@ El URL del código de este proyecto es: https://github.com/NM-Labs/WineBot/tree/
 
 Algunas capturas de pantalla del funcionamiento se encuentran en: https://github.com/NM-Labs/WineBot/tree/master/WineBot%20Code/Capturas
 
+El ambiente de Python utilizado para este proyecto se encuentra en el archivo https://github.com/NM-Labs/WineBot/blob/master/WineBot%20Code/AmbienteWineBot.yml 
+Utilizando los comandos `conda env create -f AmbienteWineBot.yml` y `conda activate WineBot` 
+
 Elaborado por: 
 
 * Natalia Patiño,  Github: [@Natalia-SP](https://github.com/Natalia-SP)
